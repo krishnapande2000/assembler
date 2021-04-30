@@ -6,7 +6,7 @@ TO RUN:\
  ./a.out\
 The c++ code is the assembler for sic xe with provisions for the extended version instructions in the code\
 pass1 creates the intermediate file\
-pass2 creates the listing.txt and output.obj\
+pass2 creates the listing.txt and output.obj
 
 # Linker Loader
 
@@ -17,6 +17,6 @@ TO RUN:\
  ./a.out\
 the code is the 2 pass linker loader\
 pass 1 gives the estab.txt as output\
-pass2 gives the memory_map.txt as output \
+pass2 gives the memory_map.txt as output 
 
 
