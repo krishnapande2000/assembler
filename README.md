@@ -1,12 +1,12 @@
 # Assembler
-Run the commands in the folder contaniing the code and the input file
-TO COMPILE:
- g++ 180101038_assign2_Assembler.cpp
-TO RUN:
- ./a.out
-The c++ code is the assembler for sic xe with provisions for the extended version instructions in the code
-pass1 creates the intermediate file
-pass2 creates the listing.txt and output.obj
+Run the commands in the folder contaniing the code and the input file\
+TO COMPILE:\
+ g++ 180101038_assign2_Assembler.cpp\
+TO RUN:\
+ ./a.out\
+The c++ code is the assembler for sic xe with provisions for the extended version instructions in the code\
+pass1 creates the intermediate file\
+pass2 creates the listing.txt and output.obj\
 
 # Linker Loader
 
